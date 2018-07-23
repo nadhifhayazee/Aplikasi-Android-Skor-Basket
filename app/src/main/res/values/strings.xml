@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkorBasket</string>
+    <string name="hello_world">Tulis Nama Tim Kamu</string>
+    <string name="timA">TIM A</string>
+    <string name="timB">TIM B</string>
+    <string name="btMulai">MULAI</string>
+    <string name="setnilai">0</string>
+    <string name="nama_tim">----</string>
+    <string name="bt3point">+3 POINT</string>
+    <string name="bt2point">+2 POINT</string>
+    <string name="bt1point">FREE THROW</string>
+</resources>

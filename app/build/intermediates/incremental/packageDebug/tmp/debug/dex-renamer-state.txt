@@ -1,0 +1,10 @@
+#Sun Jul 22 08:27:50 WIB 2018
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/abdullah/AndroidStudioProjects/SkorBasket/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/home/abdullah/AndroidStudioProjects/SkorBasket/app/build/intermediates/transforms/dexMerger/debug/13
+base.0=/home/abdullah/AndroidStudioProjects/SkorBasket/app/build/intermediates/transforms/dexMerger/debug/14
